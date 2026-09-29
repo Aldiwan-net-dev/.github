@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://developers.aldiwan.net
+    about: Report vulnerabilities privately. Do not publish secrets.
+  - name: Developer support
+    url: https://developers.aldiwan.net/contact
+    about: Account and API access support.
+
